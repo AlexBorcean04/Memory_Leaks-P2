@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/P2_Memory_leaks/cmake-build-debug/CMakeFiles/P2_Memory_leaks.dir
+C:/Users/felix/CLionProjects/P2_Memory_leaks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/P2_Memory_leaks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
